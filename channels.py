@@ -1,3 +1,5 @@
+# Author: Ramiz Muharemovic
+# https://github.com/muharemovic
 from urllib.request import urlopen
 import getpass
 import urllib,urllib.parse
